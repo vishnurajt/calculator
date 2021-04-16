@@ -1,4 +1,4 @@
-const { stringify } = require("querystring")
+alert("js file")
 
 function display(num){
     var inp=document.querySelector("#btn")
